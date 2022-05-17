@@ -1,0 +1,6 @@
+node_modules
+utils/rpcs.json
+courseWallet.json
+artifacts
+cache
+*.DS_Store
